@@ -1,1 +1,2 @@
 # FYP-Autonomous-Luggage-Carrier
+Developed an automated luggage trolley system to improve airport logistics by reducing the need for manual luggage handling. Using computer vision and a smart band system, the trolley autonomously tracks and follows passengers, enhancing convenience, efficiency, and safety in busy environments like airports. This innovation streamlines luggage transport, alleviating human effort and minimizing delays.
